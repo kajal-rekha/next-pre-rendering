@@ -1,0 +1,19 @@
+{
+  "cosmetics": [
+    {
+      "id": 1,
+      "title": "Lipstic",
+      "price": 500
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow",
+      "price": 300
+    },
+    {
+      "id": 3,
+      "title": "Maskara",
+      "price": 350
+    }
+  ]
+}
