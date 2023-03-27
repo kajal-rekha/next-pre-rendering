@@ -15,5 +15,27 @@
       "title": "Maskara",
       "price": 350
     }
+  ],
+  "frameworks": [
+    {
+      "id": 1,
+      "title": "Bootstrap CSS",
+      "core": "CSS"
+    },
+    {
+      "id": 2,
+      "title": "Tailwind CSS",
+      "core": "CSS"
+    },
+    {
+      "id": 3,
+      "title": "Next.js",
+      "core": "React.js"
+    },
+    {
+      "id": 4,
+      "title": "Vue.js",
+      "core": "Javascript"
+    }
   ]
 }
